@@ -1,0 +1,8 @@
+{
+  "oneC": {
+    "server": "localhost",
+    "base": "roz2026",
+    "platform": "8.3.27.2325"
+  },
+  "mode": "readonly"
+}

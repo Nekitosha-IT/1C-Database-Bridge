@@ -1,0 +1,10 @@
+# Local secrets and database data
+*.dump
+*.backup
+*.bak
+*.sql
+*.sqlite
+*.db
+.env
+*.log
+config/local*
